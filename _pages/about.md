@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='yiminshi1999@gmail.com'>yiminshi1999@gmail.com</a>. <a href='https://github.com/Hanc1999'>Hanc1999@github</a>
 
 profile:
   align: right
@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yimin Shi was born in Shanghai, China in the second day of 1999. He hopes to die in the 23th century.
+Yimin Shi was born in Shanghai, China in the second day of 1999. He hopes to die in the 22th century.
 
-He achieved his B.Eng degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen in 2021. He is currently an MComp student specializing in Computer Science at the National University of Singapore.
+He achieved his B.Eng degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen in 2021. He is currently an M.Comp student specializing in Computer Science at the National University of Singapore.
 
 In recent times Yimin's interest and energy focused on solving the research problems with his directors. From 2019 to 2021 he worked in the HCS lab with Prof. Wei Cai on federated learning-related topics. During this period he published his first conference paper on the ICA3PP 2020, and his first transactions paper on TOSN 2021. In 2022 he started to work with Prof. Richard T. B. Ma in NUS on the streaming processing systems.
 
