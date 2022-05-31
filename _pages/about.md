@@ -6,7 +6,7 @@ subtitle: <a href='yiminshi1999@gmail.com'>yiminshi1999@gmail.com</a>. <a href='
 
 profile:
   align: right
-  image: profile_photo.jpg # prof_pic.jpg
+  image: profile_photo.jpeg # prof_pic.jpg
   address: >
     <p>2019 Summer,</p>
     <p>in Canada.</p>
