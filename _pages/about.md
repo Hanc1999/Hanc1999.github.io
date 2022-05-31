@@ -6,10 +6,10 @@ subtitle: <a href='yiminshi1999@gmail.com'>yiminshi1999@gmail.com</a>. <a href='
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_photo.jpg # prof_pic.jpg
   address: >
-    <p>This is Albert Einstein,</p>
-    <p>not me.</p>
+    <p>2019 Summer,</p>
+    <p>in Canada.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,7 +20,7 @@ Yimin Shi was born in Shanghai, China in the second day of 1999. He hopes to die
 
 He achieved his B.Eng degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen in 2021. He is currently an M.Comp student specializing in Computer Science at the National University of Singapore.
 
-In recent times Yimin's interest and energy focused on solving the research problems with his directors. From 2019 to 2021 he worked in the HCS lab with Prof. Wei Cai on federated learning-related topics. During this period he published his first conference paper on the ICA3PP 2020, and his first transactions paper on TOSN 2021. In 2022 he started to work with Prof. Richard T. B. Ma in NUS on the streaming processing systems.
+In recent times Yimin's interest and energy focused on solving the research problems with his directors. From 2019 to 2021 he worked in the HCS lab with Prof. Wei Cai on federated learning-related topics. During this period he published his first conference paper on the ICA3PP 2020, and his first transactions paper on TOSN 2022. In 2022 he started to work with Prof. Richard T. B. Ma in NUS on the streaming processing systems.
 
 Yimin's personal interests include reading science fiction and playing Sanda (a kind of fighting technique), his favorite science fiction author is Cixin Liu. He is also interested in understanding the thinking of different people and the physical rules of this world.
 
