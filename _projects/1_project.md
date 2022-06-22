@@ -1,10 +1,10 @@
 ---
 layout: page
 title: System-Security-Exploit-Practice
-description: The coursework on CS5231: Systems Security
-img: http://www.phrack.org/images/phrack-logo.jpg
+description: The coursework on CS5231 Systems Security
+img: assets/img/3.jpg
 importance: 1
-category: Course Work
+category: work
 ---
 
 # System-Security-Exploit-Practice
