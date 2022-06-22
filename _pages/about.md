@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yimin Shi was born in Shanghai, China in the second day of 1999. He hopes to die in the 22th century.
+Yimin Shi was born in Shanghai, China in the second day of 1999. He hopes to live until the 22th century.
 
 He achieved his B.Eng degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen in 2021. He is currently an M.Comp student specializing in Computer Science at the National University of Singapore.
 
