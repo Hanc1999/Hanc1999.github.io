@@ -4,7 +4,7 @@ title: System Security Exploit Practice
 description: The coursework on CS5231 Systems Security
 img: assets/img/phrack-logo.jpeg
 importance: 1
-category: work
+category: tech
 ---
 
 # Overview
