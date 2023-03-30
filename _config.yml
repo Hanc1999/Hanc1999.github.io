@@ -31,6 +31,10 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 rss_icon: true
 
+external_sources:
+  - name: medium.com  # name of the source (arbitrary string)
+    rss_url: https://medium.com/@shiyiminooooo/feed
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
