@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpeg # prof_pic.jpg
   address: >
-    <p>Albert Einstein</p>
-    <p>We share similar hairstyles </p>
+    <p>This is Albert Einstein,</p>
+    <p>but we share same hairstyles </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
