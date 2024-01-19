@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2023-03-06 16:00:00-0400
+date: 2023-08-05 16:00:00-0400
 inline: true
 ---
-
-Achieved the Ph.D. offer with the Research Scholarship from NUS SoC!!
+Became a Ph.D. student in NUS SoC under the supervision of Prof. Xiao Xiaokui.
