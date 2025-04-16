@@ -391,16 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-re-started-the-phd-journey-at-nus-under-the-supervision-of-prof-xiaokui-xiao",
+          title: '🌞 Re-started the PhD journey at NUS under the supervision of Prof. Xiaokui...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-you-are-what-you-bought-generating-customer-personas-for-e-commerce-applications-has-been-accepted-by-sigir-2025-full-papers-track",
+          title: '🎉 Our paper “You Are What You Bought: Generating Customer Personas for E-commerce...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
