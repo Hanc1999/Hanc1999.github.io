@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-re-started-the-phd-journey-at-nus-under-the-supervision-of-prof-xiaokui-xiao",
-          title: '🌞 Re-started the PhD journey at NUS under the supervision of Prof. Xiaokui...',
+            },},{id: "news-started-the-phd-journey-at-nus-under-the-supervision-of-prof-xiaokui-xiao",
+          title: '🌞 Started the PhD journey at NUS under the supervision of Prof. Xiaokui...',
           description: "",
           section: "News",},{id: "news-our-paper-you-are-what-you-bought-generating-customer-personas-for-e-commerce-applications-has-been-accepted-by-sigir-2025-full-papers-track",
           title: '🎉 Our paper “You Are What You Bought: Generating Customer Personas for E-commerce...',
