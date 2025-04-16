@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🌞 Re-started the PhD journey at NUS under the supervision of Prof. Xiaokui Xiao.
+🌞 Started the PhD journey at NUS under the supervision of Prof. Xiaokui Xiao!
