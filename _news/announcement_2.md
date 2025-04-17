@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper “You Are What You Bought: Generating Customer Personas for E-commerce Applications” has been accepted by SIGIR 2025 Full Papers track!
+🎉 Our paper “You Are What You Bought: Generating Customer Personas for E-commerce Applications” has been accepted by SIGIR 2025 Full Papers track! 🇮🇹
