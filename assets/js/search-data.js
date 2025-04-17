@@ -443,6 +443,13 @@ ninja.data = [{
           window.open("mailto:%79%69%6D%69%6E%73%68%69@%75.%6E%75%73.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/yiminshi1999", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
