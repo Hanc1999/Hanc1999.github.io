@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <a href='mailto:yiminshi@u.nus.edu'>yiminshi📮u.🦁.edu</a> 施熠民
+subtitle: <a href='mailto:yiminshi@u.nus.edu'>yiminshi📮u.🦁.edu</a>; 施熠民
 
 profile:
   align: right
