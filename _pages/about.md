@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi!👋 I’m Yimin, a third-year Computer Science Ph.D. student at the National University of Singapore (NUS🦁), fortunate to be supervised by [Prof. Xiao Xiaokui](https://www.comp.nus.edu.sg/~xiaoxk/).
+Hi!👋 I’m Yimin, a third-year Computer Science Ph.D. student at the National University of Singapore (NUS=🦁), fortunate to be supervised by [Prof. Xiao Xiaokui](https://www.comp.nus.edu.sg/~xiaoxk/).
 
 Previously, I received my B.Eng. in Computer Science & Engineering with honors from The Chinese University of Hong Kong, Shenzhen (LGU🐲) in 2021, graduating third in my major. Before starting my Ph.D. in 2023, I completed my master's degree at NUS, where I explored AI-assisted stream processing systems with the TikTok Infra group.
 
