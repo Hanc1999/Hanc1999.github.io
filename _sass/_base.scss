@@ -1186,6 +1186,15 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
 
+// news scrollable panel on about page
+.news .news-scrollable {
+  max-height: 10.5rem; // roughly 3 news rows
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
 // newsletter
 .newsletter-form-container {
   margin-bottom: 20px;
